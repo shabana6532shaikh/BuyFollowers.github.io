@@ -1,2 +1,244 @@
-# BuyFollowers.github.io
-Buy Followers 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Buy Followers – Low Price & Fast Delivery</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:'Poppins', sans-serif;
+        }
+
+        body{
+            background:#f4f7fb;
+            color:#333;
+        }
+
+        header{
+            background:linear-gradient(135deg,#4f46e5,#9333ea);
+            color:white;
+            padding:80px 20px;
+            text-align:center;
+        }
+
+        header h1{
+            font-size:40px;
+            font-weight:700;
+            margin-bottom:15px;
+        }
+
+        header p{
+            font-size:18px;
+            max-width:700px;
+            margin:auto;
+        }
+
+        .btn{
+            display:inline-block;
+            margin-top:25px;
+            padding:14px 30px;
+            background:#25D366;
+            color:white;
+            text-decoration:none;
+            font-weight:600;
+            border-radius:50px;
+            transition:0.3s;
+        }
+
+        .btn:hover{
+            background:#1ebc5a;
+        }
+
+        section{
+            padding:60px 20px;
+            max-width:1200px;
+            margin:auto;
+        }
+
+        .services{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+            gap:25px;
+        }
+
+        .card{
+            background:white;
+            padding:30px;
+            border-radius:15px;
+            text-align:center;
+            box-shadow:0 10px 30px rgba(0,0,0,0.08);
+        }
+
+        .card i{
+            font-size:45px;
+            color:#6366f1;
+            margin-bottom:15px;
+        }
+
+        .card h3{
+            font-size:22px;
+            margin-bottom:10px;
+        }
+
+        .card p{
+            font-size:15px;
+            color:#666;
+        }
+
+        .pricing{
+            background:#eef2ff;
+            border-radius:20px;
+            padding:50px 20px;
+        }
+
+        .price-box{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+            gap:25px;
+        }
+
+        .price-card{
+            background:white;
+            border-radius:15px;
+            padding:30px;
+            text-align:center;
+            box-shadow:0 8px 25px rgba(0,0,0,0.08);
+        }
+
+        .price-card h3{
+            font-size:22px;
+            margin-bottom:10px;
+        }
+
+        .price{
+            font-size:36px;
+            font-weight:700;
+            color:#4f46e5;
+            margin:15px 0;
+        }
+
+        .price-card ul{
+            list-style:none;
+            margin-bottom:20px;
+        }
+
+        .price-card ul li{
+            margin:8px 0;
+            font-size:14px;
+        }
+
+        footer{
+            background:#111827;
+            color:#9ca3af;
+            text-align:center;
+            padding:30px 15px;
+            margin-top:40px;
+        }
+
+        footer a{
+            color:#25D366;
+            text-decoration:none;
+            font-weight:600;
+        }
+
+        @media(max-width:600px){
+            header h1{
+                font-size:30px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+    <h1>Buy Followers at Lowest Price</h1>
+    <p>Real • Fast • Safe Followers for Instagram, YouTube & Social Media.  
+    100% Trusted & Affordable Services.</p>
+    <a class="btn" href="https://wa.me/919834322834" target="_blank">
+        <i class="fab fa-whatsapp"></i> Contact on WhatsApp
+    </a>
+</header>
+
+<!-- SERVICES -->
+<section>
+    <h2 style="text-align:center;margin-bottom:40px;">Our Services</h2>
+    <div class="services">
+        <div class="card">
+            <i class="fab fa-instagram"></i>
+            <h3>Instagram Followers</h3>
+            <p>Grow your Instagram profile with high-quality followers.</p>
+        </div>
+
+        <div class="card">
+            <i class="fab fa-youtube"></i>
+            <h3>YouTube Subscribers</h3>
+            <p>Increase subscribers & build channel authority fast.</p>
+        </div>
+
+        <div class="card">
+            <i class="fas fa-heart"></i>
+            <h3>Likes & Views</h3>
+            <p>Boost likes & views to increase reach & engagement.</p>
+        </div>
+    </div>
+</section>
+
+<!-- PRICING -->
+<section class="pricing">
+    <h2 style="text-align:center;margin-bottom:40px;">Affordable Pricing</h2>
+
+    <div class="price-box">
+        <div class="price-card">
+            <h3>Starter Pack</h3>
+            <div class="price">₹199</div>
+            <ul>
+                <li>✔ 1,000 Followers</li>
+                <li>✔ Fast Delivery</li>
+                <li>✔ 24/7 Support</li>
+            </ul>
+            <a class="btn" href="https://wa.me/919834322834">Order Now</a>
+        </div>
+
+        <div class="price-card">
+            <h3>Popular Pack</h3>
+            <div class="price">₹499</div>
+            <ul>
+                <li>✔ 5,000 Followers</li>
+                <li>✔ High Quality</li>
+                <li>✔ Safe & Secure</li>
+            </ul>
+            <a class="btn" href="https://wa.me/919834322834">Order Now</a>
+        </div>
+
+        <div class="price-card">
+            <h3>Premium Pack</h3>
+            <div class="price">₹999</div>
+            <ul>
+                <li>✔ 10,000 Followers</li>
+                <li>✔ Instant Start</li>
+                <li>✔ Best for Influencers</li>
+            </ul>
+            <a class="btn" href="https://wa.me/919834322834">Order Now</a>
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+    <p>© 2026 Buy Followers Service | Excellent & Trusted Growth</p>
+    <p>WhatsApp: <a href="https://wa.me/919834322834">+91 98343 22834</a></p>
+</footer>
+
+</body>
+</html>
